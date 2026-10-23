@@ -1,0 +1,4 @@
+/app/config.local.php
+/storage/print_files/*
+!/storage/print_files/.gitkeep
+*.log
